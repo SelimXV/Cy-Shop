@@ -6,7 +6,7 @@
   On peut y créer un compte, ou se connecter à un des deux comptes d'administrateur déjà existant.
   Une fois cela fait, on a un choix assez large d'action comme par exemple rechercher un produit et l'acheter ou bien afficher nos 3 derniers achats.
 
-## Langage utilisés
+## Langages utilisés
   
 * Langage de programmation utilisé : <code>C</code>
 * Logiciel utilisé : **Visual Studio Code**
