@@ -2,7 +2,7 @@
 
 ## Bibliothèque informatique
 
-  Cy-shop est un magasin en ligne qui vous permet d'effectuer les actions classique d'un supermarché.
+  Cy-Shop est un magasin en ligne qui vous permet d'effectuer les actions classique d'un supermarché.
   On peut y créer un compte, ou se connecter à un des deux comptes d'administrateur déjà existant.
   Une fois cela fait, on a un choix assez large d'action comme par exemple rechercher un produit et l'acheter ou bien afficher nos 3 derniers achats.
 
